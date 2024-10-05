@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4eced0-95d8-448a-b2fb-d42a4748e9cb" name="Changes" comment="Add: Bibl test">
+    <list default="true" id="da4eced0-95d8-448a-b2fb-d42a4748e9cb" name="Changes" comment="Add: Функция для фильтрации сообщений">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728130686488</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add: Функция для фильтрации сообщений">
+      <option name="closed" value="true" />
+      <created>1728134086573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728134086573</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add: Create project" />
     <MESSAGE value="Add: Bibl test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: Bibl test" />
+    <MESSAGE value="Add: Функция для фильтрации сообщений" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: Функция для фильтрации сообщений" />
   </component>
 </project>
