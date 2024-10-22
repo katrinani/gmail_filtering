@@ -1,0 +1,1 @@
+echo "@reboot cd /home/katrina/PycharmProjects/gmail_filtering && python3 main.py" | crontab
